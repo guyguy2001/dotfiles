@@ -8,7 +8,7 @@
 - link:
     ~/.bashrc: bashrc
     ~/.config: config
-    ~/.local/share/nvim/site/autoload: autoload
+    ~/.local/share: share
 
   # - create:
   #     - ~/downloads
